@@ -1,6 +1,6 @@
 {
-  "token": "Discord token",
-  "prefix": "g!",
-  "everyoneMention": true,
+  "token": "NzU0ODE1ODYyNjgyNDE5MjUx.X16PDQ.asHPnNwBpzRTXYvIsvyai9VjGZU",
+  "prefix": "e!",
+  "everyoneMention": false,
   "hostedBy": true
 }
