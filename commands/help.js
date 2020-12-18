@@ -7,7 +7,7 @@ module.exports.run = async (client, message, args) => {
     if(!message.content.startsWith(prefix)) return;
 
     let help = new Discord.MessageEmbed()
-      .setAuthor("DevMirza")
+      .setAuthor("Fade Away#2777")
       .setTitle("Command List & Guide for the Bot")
       .setDescription("Below are Commands you can do with Bot, Right now there is only 6 commands available, more commands will be added soon.")
       .setDescription("Below are Commands you can do with Bot, Right now there is only 6 commands available more commands will be added soon.")
@@ -17,7 +17,7 @@ module.exports.run = async (client, message, args) => {
       .addField("ℹ Information ℹ", "stats", true)
       .setTimestamp()
       .setFooter(`Command Requested By ${message.author.tag}`, client.user.displayAvatarURL());
-    message.channel.send("**You've Got a Mail 💌, Check DMs**");
+    message.channel.send("**You've Got Mail! 💌, Check DMs**");
 
     return message.author.send(help);
 }
