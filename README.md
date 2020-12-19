@@ -8,7 +8,7 @@ GiveawaysBot allows you to conduct giveaways in your discord server with lightni
 > Offline.
 
 ## READ BELOW
-> This code is not mine. I forked it from my good friend DevMirza, Hes a awesome coder! Well. I formed it becuz every time i ran it gave errors. so i fixed it! Have fun!
+> This code is not mine. I forked it from my good friend DevMirza, Hes a awesome coder! Well. I forked it becuz every time i ran it gave errors. so i fixed it! Have fun!
 
 # Links
 - 🔗 [Invite Link](https://discordapp.com/api/oauth2/authorize?client_id=606587080042086420&permissions=8&scope=bot)
