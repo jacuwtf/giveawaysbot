@@ -1,4 +1,4 @@
-# 🎁 Official-Giveaways-Bot ⚡
+# 🎁 Extra Giveaways Source Code ⚡
 GiveawaysBot allows you to conduct giveaways in your discord server with lightning fast speed. 
 
 ## Directly run the code on repl.it
